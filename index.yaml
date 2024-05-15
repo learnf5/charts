@@ -9,5 +9,6 @@ entries:
     name: nginx
     urls:
     - https://learnf5.github.io/charts/nginx-0.1.0.tgz
+    - https://learnf5.github.io/charts/nginxphp-0.0.5.tgz
     version: 0.1.0
 generated: "2022-12-16T02:27:07.888206378Z"
