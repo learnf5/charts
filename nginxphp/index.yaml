@@ -1,0 +1,13 @@
+apiVersion: v1
+entries:
+  nginxphp:
+  - apiVersion: v2
+    appVersion: "1.1"
+    created: "2024-05-15T13:05:15.713297147-07:00"
+    description: A very basic NGINX installation for demonstrating Helm charts
+    digest: 455165ff151f375054dd81d89f0bd60717155f055a63db3ad5e3ce5d7a035aa5
+    name: nginxphp
+    urls:
+    - https://learnf5.github.io/charts/nginxphp/nginxphp-0.0.5.tgz
+    version: 0.0.5
+generated: "2024-05-15T13:05:15.712911821-07:00"
